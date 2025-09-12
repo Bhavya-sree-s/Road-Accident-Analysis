@@ -1,10 +1,10 @@
 # 🚦 Road Accident Analysis Project
-**Technologies:** SQL | Power BI | Tableau | Excel
+**Technologies:** SQL | Power BI | Tableau
 
 ---
 
 ## 📌 Project Overview
-This project analyzes **Road Accident Data** using SQL, Power BI, Tableau, and Excel to uncover insights into accident trends, severity, vehicle involvement, and causes.  
+This project analyzes **Road Accident Data** using SQL, Power BI, Tableau, and to uncover insights into accident trends, severity, vehicle involvement, and causes.  
 **Goal:** Identify high-risk areas, accident patterns, and provide interactive dashboards to improve road safety and policy making.
 
 ---
@@ -13,7 +13,6 @@ This project analyzes **Road Accident Data** using SQL, Power BI, Tableau, and E
 - **SQL:** Accident data queries & KPIs  
 - **Power BI:** Interactive dashboards & reports  
 - **Tableau:** Advanced visualization & storytelling dashboards  
-- **Excel:** Data preprocessing & exploration  
 
 ---
 ## 📊 Dashboards & Visuals
