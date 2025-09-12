@@ -17,18 +17,14 @@ This project analyzes **Road Accident Data** using SQL, Power BI, Tableau, and E
 
 ---
 
-## 📊 Dashboards & Visuals
+### Road Accident Analysis | Fatal Accidents
+![Dashboard 1](Images/Road-Accident-Analysis-Fatal-Dashboard.jpg)
 
-### 📸 Sample Dashboards
+### Road Accident Analysis | Serious Accidents
+![Dashboard 2](Images/Road-Accident-Analysis-Serious-Dashboard.jpg)
 
-#### Road Accident Analysis | Fatal Accidents
-![Dashboard 1](images/Road-Accident-Analysis-Fatal-Dashboard.jpg)
-
-#### Road Accident Analysis | Serious Accidents
-![Dashboard 2](images/Road-Accident-Analysis-Serious-Dashboard.jpg)
-
-#### Road Accident Analysis | Slight Accidents
-![Dashboard 3](images/Road-Accident-Analysis-Slight-Dashboard.jpg)
+### Road Accident Analysis | Slight Accidents
+![Dashboard 3](Images/Road-Accident-Analysis-Slight-Dashboard.jpg)
 
 
 ## 📂 Project Structure
