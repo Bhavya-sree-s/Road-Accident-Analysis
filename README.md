@@ -74,6 +74,7 @@ Hi, I’m Bhavya Sree, an aspiring Data Analyst passionate about turning raw dat
 
 🔹 Interested in solving real-world business & policy problems with data
 
-🔹 Connect with me on LinkedIn
+🔹 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavya-sree-s/)
+
 
 ✨ If you like this project, don’t forget to ⭐ star the repo!
