@@ -66,7 +66,7 @@ git clone https://github.com/Bhavya-sree-s/Road-Accident-Analysis.git
 
 5. Review reports in the provided PDF & JPG previews
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 Hi, I’m Bhavya Sree, an aspiring Data Analyst passionate about turning raw data into actionable insights.
 
@@ -76,5 +76,4 @@ Hi, I’m Bhavya Sree, an aspiring Data Analyst passionate about turning raw dat
 
 🔹 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavya-sree-s/)
 
-
-✨ If you like this project, don’t forget to ⭐ star the repo!
+###✨ If you like this project, don’t forget to ⭐ star the repo!
